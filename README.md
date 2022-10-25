@@ -1,6 +1,9 @@
-# Sitio casa_bosque
+# :name_badge: Sitio casa_bosque
 
-## 📛 Descripcion 
+## :man: Autor
+- Juan I. Juambeltz
+
+## :newspaper: Descripcion 
 - en construcción
 
 ## 🧠 Tecnologias usadas
