@@ -1,7 +1,4 @@
-# :name_badge: Sitio casa_bosque
-
-## :man: Autor
-- Juan I. Juambeltz
+# :name_badge: Sitio : casa_bosque
 
 ## :newspaper: Descripcion 
 - en construcción
